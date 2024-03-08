@@ -1,0 +1,24 @@
+There are two main types of AI
+
+Type 1 (More like machine and powerful)
+Type 2 (More like a human like being with self-awareness and reactiveness)
+
+Type 1:
+a. Narrow AI (Weak AI) [Dedicated for some tasks]
+b. General AI [Performs tasks like humans]
+c. Strong AI [Super Humans] (Far future)
+
+Type 2:
+a. Reactive Machines [Only focus on current scenarios, do not store memory]
+b. Limited Memory [Self-training and decision making algorithms]
+c. Theory of Mind [Able to understand human emotions, and act like a social being]
+d. Self Awareness [Having their own consciousness]
+
+
+Communicative AI:
+
+1. Interactive AI
+2. Text AI
+3. Functional AI 
+4. Analytic AI
+5. Visual AI
