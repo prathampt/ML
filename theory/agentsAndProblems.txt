@@ -1,0 +1,40 @@
+Agents are intelligent Systems which works with the environment...
+
+Types:
+
+1. Human Agent
+2. Robotic Agent
+3. Software Agent
+
+Aspects of measuring the accuracy of the agent:
+
+e.g. Rationality
+
+
+Problem Solving in AI:
+
+Types of Problems:
+a. Toy Problem (For ideal scenarios)
+b. Real-World Problems (For real-world scenarios)
+
+Steps:
+1. Goal Formulation
+2. Problem Formulation
+3. Initial State
+4. Actions
+5. Transition Model
+6. Goal Test
+7. Path Cost
+
+Methods:
+a. Algorithms (Perfectly predicted outcome, proven to grant an optimal result) 
+b. Heuristic (Unpredicted outcome, not necessory that it will give answer or most optimized answer)
+c. Root cause analysis
+
+After deciding the method we can opt for the problem formulation
+
+Types of Problems:
+1. Single State Problems
+2. Multiple State Problems
+3. Contignecy Problems
+4. Exploration Problems

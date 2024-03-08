@@ -1,0 +1,9 @@
+BIGDATA:
+
+Works on three V's:
+
+Volume
+Velocity
+Variety
+
+Hadup (A solution for the big data)
